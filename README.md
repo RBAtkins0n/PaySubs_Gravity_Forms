@@ -12,8 +12,6 @@ Please navigate to the [releases page](https://github.com/PayGate/PayWeb_Gravity
 
 Please submit pull requests with any tweaks, features or fixes you would like to share.
 
-## About PayWeb
+## About PaySubs
 
-[PayWeb](https://www.paygate.co.za/paygate-products/payweb/) is an easy and secure way to accept payments online. The Customer makes payments using [PayGate’s](https://www.paygate.co.za/) secure hosted payment page. PayWeb is mobile-friendly making it compatible across all mobile devices. By selecting PayWeb, the Merchant gets immediate access to an array of Payment Methods, making it easier to get paid.
-
-~Current Version:2.2.9~
+[PaySubs](https://www.paygate.co.za/paygate-products/paysubs/) allows you to create a recurring (subscription) payment for your Customer. This can be done manually using the PayGate Merchant Portal or your Customer can activate the subscription using an API integration. A Process Now function enables the first transaction to be processed in real-time (when captured via a web site API integration) and the balance to be processed at future dates.
