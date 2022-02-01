@@ -1,6 +1,6 @@
 <?php
 /*
- * Copyright (c) 2019 PayGate (Pty) Ltd
+ * Copyright (c) 2022 PayGate (Pty) Ltd
  *
  * Author: App Inlet (Pty) Ltd
  *
@@ -33,7 +33,8 @@ class GFPaySubs extends GFPaymentAddOn
     // Automatic upgrade enabled
     protected $_enable_rg_autoupgrade = false;
     protected $_paysubs_url           = 'https://www.vcs.co.za/vvonline/vcspay.aspx';
-    private static $_instance         = null;
+    // protected $_paysubs_url   = 'https://core3.directpay.online/vcs/pay';
+    private static $_instance = null;
 
     public static function get_instance()
     {
