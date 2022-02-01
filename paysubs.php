@@ -4,16 +4,16 @@
  * Plugin Name: Gravity Forms PaySubs Add-On
  * Plugin URI: https://github.com/PayGate/PaySubs_Gravity_Forms
  * Description: Integrates Gravity Forms with PaySubs, a South African payment gateway.
- * Version: 1.0.0
- * Tested: 5.3.0
+ * Version: 1.0.1
+ * Tested: 5.9.0
  * Author: PayGate (Pty) Ltd
  * Author URI: https://www.paygate.co.za/
  * Developer: App Inlet (Pty) Ltd
  * Developer URI: https://www.appinlet.com/
  * Text Domain: gravityformspaysubs
  * Domain Path: /languages
- * 
- * Copyright: © 2019 PayGate (Pty) Ltd.
+ *
+ * Copyright: © 2022 PayGate (Pty) Ltd.
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  */
@@ -28,7 +28,7 @@ add_action( 'plugins_loaded', 'paysubs_init' );
 
 function paysubs_init()
 {
-     /**
+    /**
      * Auto updates from GIT
      *
      * @since 2.2.9

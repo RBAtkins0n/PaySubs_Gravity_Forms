@@ -212,7 +212,7 @@ if ( !class_exists( 'GW_Post_Content_Merge_Tags' ) ) {
                 return $entry_id;
             } else {
                 if ( is_callable( array( 'GFCommon', 'decrypt' ) ) ) {
-                    $entry_id = VCS_encryption( $entry_id, 'd' );
+                    $entry_id = PaySubs_encryption( $entry_id, 'd' );
                 }
                 return intval( $entry_id );
             }
