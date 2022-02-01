@@ -4,11 +4,18 @@
 This is the PayGate PaySubs1 (VCS) plugin for Gravity Forms. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## Installation
-Please navigate to the [releases page](https://github.com/PayGate/PaySubs_Gravity_Forms/releases), download the latest release (v1.0.1) and unzip. You will them be able to follow the integration guide PDF which is included in the zip.
+Please navigate to the [releases page](https://github.com/PayGate/PaySubs_Gravity_Forms/releases), download the latest release (v1.0.1) and unzip. You will then be able to follow the integration guide PDF which is included in the zip.
 
 ## Collaboration
 
 Please submit pull requests with any tweaks, features or fixes you would like to share.
+
+## Supported Acquiring Banks
+
+- ABSA Bank
+- Standard Bank South Africa
+- First National Bank
+- Nedbank (Nedbank require x2 merchant accounts. 3D secure and Moto).
 
 ## About PaySubs
 
