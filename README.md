@@ -1,7 +1,7 @@
 # PaySubs_Gravity_Forms
 ## PayGate Gravity Forms plugin v1.0.1 for Gravity Forms v2.5.16.1, WordPress v5.9.0
 
-This is the PayGate PaySubs1 (VCS) plugin for Gravity Forms. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
+This is the PayGate PaySubs1 (VCS) plugin for Gravity Forms. Please feel free to contact the PayGate support team at supportsa@dpogroup.com should you require any assistance.
 
 ## Installation
 Please navigate to the [releases page](https://github.com/PayGate/PaySubs_Gravity_Forms/releases), download the latest release (v1.0.1) and unzip. You will then be able to follow the integration guide PDF which is included in the zip.
